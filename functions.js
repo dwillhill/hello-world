@@ -1,3 +1,3 @@
 module.exports.helloWorld = function(){
-  console.log('Hello World!')
+  console.log('Hello Worldly World!')
 }
